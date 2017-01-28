@@ -1,5 +1,5 @@
 print "read file"
-ip=open("hwtrace.out","r")
+ip=open("input.out","r")
 a=[]
 a=ip.readlines()
 
